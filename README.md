@@ -28,9 +28,5 @@ This repository contains my completed tasks for the virtual experience program *
 - Excel/Spreadsheet Proficiency
 - Business Insight Generation
 
-## 🚀 Program Link
-[Commonwealth Bank – Introduction to Data Science (Forage)](https://www.theforage.com/simulations/commonwealth-bank/intro-data-science-sd7t)
 
----
 
-Feel free to explore the tasks and learn how data science is applied in the banking industry!
